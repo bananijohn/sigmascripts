@@ -6,6 +6,6 @@ scripts that help you do things
 
 script to help you (optionally) partition a drive, mount it and pacstrap it for arch linux
 to run the script:
-```sh -c "$(curl https://raw.githubusercontent.com/bananijohn/sigmascripts/refs/heads/main/arch.sh)"```
+```sh -c "$(curl https://raw.githubusercontent.com/bananijohn/sigmascripts/refs/heads/main/arch.sh)"```  
 
 credit to solarfire (the other maintainer) for coding these
