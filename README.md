@@ -1,4 +1,11 @@
 # sigmascripts
-scripts to help you do things idk lol
 
-solarfire actually coded it i just had the idea lol
+scripts that help you do things
+
+# arch.sh
+
+script to help you (optionally) partition a drive, mount it and pacstrap it for arch linux
+to run the script:
+```sh -c "$(curl https://raw.githubusercontent.com/bananijohn/sigmascripts/refs/heads/main/arch.sh)"```
+
+credit to solarfire (the other maintainer) for coding these
